@@ -51,7 +51,7 @@ export const REFERENCE: ReferenceRow[] = [
 
 export const CAPS = [100_000, 250_000, 500_000] as const;
 
-const KEY = "halyard.drafts.v1";
+const KEY = "paxband.drafts.v1";
 
 export function suggestSymbol(underlying: string, band: Band): string {
   const stem = underlying.toUpperCase().replace(/[^A-Z0-9]/g, "").slice(0, 10);

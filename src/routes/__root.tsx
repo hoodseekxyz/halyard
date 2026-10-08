@@ -3,7 +3,7 @@ import { AuthProvider } from "@/lib/auth/provider";
 import { PreviewHostBridge } from "@/components/preview-host-bridge";
 import appCss from "../styles.css?url";
 
-const APP_NAME = "Halyard";
+const APP_NAME = "Paxband";
 
 export const Route = createRootRoute({
   head: () => ({
@@ -14,7 +14,7 @@ export const Route = createRootRoute({
       {
         name: "description",
         content:
-          "Halyard files leverage-band drafts. Nothing here mints a token. Not a perp, not Paxos, not Long.",
+          "Paxband files leverage-band drafts. Nothing here mints a token. Not Paxos. Not Long. Not a perp.",
       },
       { name: "theme-color", content: "#f3efe6" },
     ],

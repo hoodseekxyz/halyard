@@ -20,11 +20,11 @@ export function BookScreen() {
     <Shell>
       <p className="text-sm tracking-widest text-gold uppercase">The book</p>
       <h1 className="mt-2 max-w-xl font-display text-5xl leading-none text-ink sm:text-6xl">
-        Hoist a band. The rope is still on the cleat.
+        File the band. Leave the stamp off.
       </h1>
       <p className="mt-4 max-w-2xl text-lg leading-relaxed text-muted">
         A 1×, 3×, 5× or 7× token is a claim on a perp account, not a name you type.
-        Halyard files the request. It does not deploy it.
+        Paxband files the request. It does not deploy it. The name is not Paxos.
       </p>
       <div className="mt-6">
         <Link to="/raise" className="action">

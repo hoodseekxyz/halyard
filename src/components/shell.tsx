@@ -21,7 +21,7 @@ export function Shell({ children }: { children: ReactNode }) {
       <header className="flex flex-wrap items-center justify-between gap-4">
         <Link to="/" className="flex items-center gap-3 text-ink">
           <Mark />
-          <span className="font-display text-2xl leading-none tracking-tight">Halyard</span>
+          <span className="font-display text-2xl leading-none tracking-tight">Paxband</span>
         </Link>
         <nav className="flex gap-1" aria-label="Sections">
           {LINKS.map((item) => (
@@ -39,7 +39,7 @@ export function Shell({ children }: { children: ReactNode }) {
       <p className="shut mt-5">Book shut. Nothing on this desk mints a token or opens a band.</p>
       <main className="flex-1 py-8">{children}</main>
       <footer className="border-t border-ink/15 py-4 text-sm text-muted">
-        Not Paxos. Not Long. Not a perp venue. A draft is a piece of paper.
+        Paxband is not Paxos. Not Long. Not a perp venue. A draft is a piece of paper.
       </footer>
     </div>
   );

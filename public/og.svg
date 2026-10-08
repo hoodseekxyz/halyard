@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="HALYARD. The book is shut.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="PAXBAND. The book is shut.">
   <rect width="1200" height="630" fill="#1c1915"/>
   <rect x="112" y="188" width="8" height="48" fill="#f3efe6"/>
   <path fill="#9a7340" d="M72 236h88L148 308H84Z"/>
-  <text x="200" y="292" fill="#f3efe6" font-family="Georgia, 'Times New Roman', serif" font-size="108" letter-spacing="16">HALYARD</text>
+  <text x="200" y="292" fill="#f3efe6" font-family="Georgia, 'Times New Roman', serif" font-size="108" letter-spacing="16">PAXBAND</text>
   <text x="204" y="368" fill="#9a7340" font-family="Georgia, 'Times New Roman', serif" font-size="36">The book is shut.</text>
   <rect x="204" y="396" width="64" height="8" fill="#8f3d32"/>
 </svg>
